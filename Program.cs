@@ -45,6 +45,18 @@ internal class Program
             }
         }
         Console.ReadKey();
+        //Busqueda en listas
+        Console.Clear();
+
+        Persona BuscarPersona;
+        Console.WriteLine("Ingrese el nombre de la persona a buscar");
+        String ? palabra = Console.ReadLine();
+        BuscarPersona = personas.Find(persona => persona.Name.Equals(palabra)) ?? new Persona();
+        Console.WriteLine(BuscarPersona.IdPerson);
+        Console.WriteLine(BuscarPersona.Name);
+        Console.WriteLine(BuscarPersona.Age);
+        Console.WriteLine(BuscarPersona.Email);
+        
 
     }
 }
