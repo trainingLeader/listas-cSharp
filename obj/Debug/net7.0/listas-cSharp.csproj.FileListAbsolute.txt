@@ -1,0 +1,15 @@
+D:\projectsNetCore\listas-cSharp\bin\Debug\net7.0\listas-cSharp.exe
+D:\projectsNetCore\listas-cSharp\bin\Debug\net7.0\listas-cSharp.deps.json
+D:\projectsNetCore\listas-cSharp\bin\Debug\net7.0\listas-cSharp.runtimeconfig.json
+D:\projectsNetCore\listas-cSharp\bin\Debug\net7.0\listas-cSharp.dll
+D:\projectsNetCore\listas-cSharp\bin\Debug\net7.0\listas-cSharp.pdb
+D:\projectsNetCore\listas-cSharp\obj\Debug\net7.0\listas-cSharp.csproj.AssemblyReference.cache
+D:\projectsNetCore\listas-cSharp\obj\Debug\net7.0\listas-cSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsNetCore\listas-cSharp\obj\Debug\net7.0\listas-cSharp.AssemblyInfoInputs.cache
+D:\projectsNetCore\listas-cSharp\obj\Debug\net7.0\listas-cSharp.AssemblyInfo.cs
+D:\projectsNetCore\listas-cSharp\obj\Debug\net7.0\listas-cSharp.csproj.CoreCompileInputs.cache
+D:\projectsNetCore\listas-cSharp\obj\Debug\net7.0\listas-cSharp.dll
+D:\projectsNetCore\listas-cSharp\obj\Debug\net7.0\refint\listas-cSharp.dll
+D:\projectsNetCore\listas-cSharp\obj\Debug\net7.0\listas-cSharp.pdb
+D:\projectsNetCore\listas-cSharp\obj\Debug\net7.0\listas-cSharp.genruntimeconfig.cache
+D:\projectsNetCore\listas-cSharp\obj\Debug\net7.0\ref\listas-cSharp.dll
